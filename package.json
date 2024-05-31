@@ -1,6 +1,6 @@
 {
 	"name": "logicl-flexpay-transaction-client-js",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "FlexPay Transaction API Javascript client",
 	"author": "",
 	"homepage": "",
